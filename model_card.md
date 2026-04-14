@@ -50,10 +50,4 @@ The biggest win would be actually using the `likes_acoustic` field that's sittin
 
 ## 9. Personal Reflection  
 
-A few sentences about your experience.  
-
-Prompts:  
-
-- What you learned about recommender systems  
-- Something unexpected or interesting you discovered  
-- How this changed the way you think about music recommendation apps  
+Building this recommender showed me that what feels like a "smart" suggestion is actually just the result of a developer's specific mathematical choices. I was surprised by how a single heavy weight on genre can unintentionally silence great music, shifting my perspective on how much invisible control algorithms have over our daily discoveries.
